@@ -1,30 +1,23 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Currently working as an R&D Engineer for [Inria Chile](http://www.inria.cl). I have an Informatics engineering degree from the [University of Chile](http://www.dcc.uchile.cl) a Ph.D on Computer Science from [Telecom SudParis](http://telecom-sudparis.eu) and a strong background on computer systems, formal testing, network protocols, mobile systems and next generation networks.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+{% comment %}
+  Here I should put something about what I'm working on right now
+{% endcomment %}
 
-There are currently two themes built on Poole:
+For more detailed information about my current and past work you can visit one of the following sites:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* [LinkedIn](https://cl.linkedin.com/in/flalanne)
+* [GitHub](https://github.com/pipex)
+* [DBLP](http://dblp.uni-trier.de/pers/hd/l/Lalanne:Felipe)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+In general I have a passion for innovation, technology, and their usage to influence social change. I'm always open to discuss interesting ideas on this area, so feel free to contact me (I speak english, spanish and french).
 
-## Setup
+# Contact
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Have a question, suggestion or correction about the content on this website? You can [open an issue on GitHub](https://github.com/pipex.github.io/issues/new). Do you want to discuss ideas in technology or something else?
+You can [contact me on Twitter](https://twitter.com/{{site.author.twitter}}).
