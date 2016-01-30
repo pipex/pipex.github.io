@@ -2,23 +2,26 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-gems: [jekyll-paginate]
-paginate: 5
-paginate_path: "page:num"
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+gems:                [jekyll-paginate]
+title:               Felipe Lalanne
+tagline:             'An about page'
+description:         'I&apos;m an R&D engineer, software developer, bicycle enthusiast and tv, food and movie lover. This is my personal website.'
+url:                 http://felipe.lalanne.cl
 baseurl:             ''
 paginate:            5
+paginate_path:       "page:num"
 
 # About/contact
 author:
   name:              Felipe Lalanne
   url:               https://twitter.com/pipex
   email:             felipe@lalanne.cl
+  github:            https://github.com/pipex
+  linkedin:          https://cl.linkedin.com/in/flalanne
+  twitter:           pipex
+
 
 # Custom vars
 version:             1.0.0
