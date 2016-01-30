@@ -2,7 +2,9 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
 
 # Setup
 title:               Lanyon
@@ -14,9 +16,9 @@ paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Felipe Lalanne
+  url:               https://twitter.com/pipex
+  email:             felipe@lalanne.cl
 
 # Custom vars
 version:             1.0.0
