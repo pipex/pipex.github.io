@@ -1,6 +1,6 @@
 # Personal Website
 
-This is the repository for [my personal website](http://felipe.lalanne.cl), created with [Jekyll](http://jekyllrb.com) and the [Lanyon theme](http://lanyon.getpoole.com), available also on my [Github page](https://pipex.github.io).
+This is the repository for [my personal website](http://felipe.lalanne.cl), created with [Jekyll](http://jekyllrb.com) and the [Lanyon theme](http://lanyon.getpoole.com).
 
 Except where otherwise noted, all content on the site is licensed under a <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
   &copy; 2016 Felipe Lalanne.
