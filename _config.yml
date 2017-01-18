@@ -8,7 +8,7 @@ gems:                [jekyll-paginate]
 title:               Felipe Lalanne
 tagline:             'An about page'
 description:         'I&apos;m an R&D engineer, software developer, bicycle enthusiast and tv, food and movie lover. This is my personal website.'
-url:                 http://felipe.lalanne.cl
+url:                 https://felipe.lalanne.cl
 baseurl:             ''
 paginate:            5
 paginate_path:       "page:num"
