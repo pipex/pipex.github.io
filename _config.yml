@@ -1,7 +1,3 @@
-# HTTPS enforce
-url: https://felipe.lalanne.cl   # with the https protocol
-enforce_ssl: felipe.lalanne.cl   # without any protocol
-
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
