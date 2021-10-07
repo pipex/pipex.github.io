@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-Currently working as an R&D Engineer for [Inria Chile](http://www.inria.cl). I have an Informatics engineering degree from the [University of Chile](http://www.dcc.uchile.cl) a Ph.D on Computer Science from [Telecom SudParis](http://telecom-sudparis.eu) and a strong background on computer systems, formal testing, network protocols, mobile systems and next generation networks.
+Currently working as an Product Engineer for [Balena](https://www.balena.io). I have an Software Engineering degree from the [University of Chile](http://www.dcc.uchile.cl) a Ph.D on Computer Science from [Telecom SudParis](http://telecom-sudparis.eu) and a strong background on computer systems, formal testing, network protocols, and Internet of Things.
 
 {% comment %}
   Here I should put something about what I'm working on right now
